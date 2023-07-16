@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Music Recommendation System using facial emotion**
 
-- 🌱 I’m currently learning **MERN STAck**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 Reach me at **vinchhivivek5@gmail.com**
 
