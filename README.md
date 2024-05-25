@@ -3,9 +3,9 @@
 <h1 align="center">Hi there 👋, I'm vivek vinchhi</h1>
 
 
-- 🔭 I’m currently working on **Music Recommendation System using facial emotion**
+- 🔭 I’m currently working as **Software Developer in MTC(Chennai) Project **
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently enhancing **MERN STACK** knowledge.
 
 - 📫 Reach me at **vinchhivivek5@gmail.com**
 
