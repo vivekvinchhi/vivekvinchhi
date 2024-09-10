@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently enhancing **MERN STACK** knowledge.
 
-- 📫 Reach me at **vinchhivivek5@gmail.com**
+- 📫 Reach me at **vinchhivivek9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
